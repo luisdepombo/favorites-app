@@ -1,4 +1,4 @@
-# my_flutter_app
+# Favorites App
 
 A new Flutter project.
 
